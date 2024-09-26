@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g CMakeFiles/sanitize.dir/Task_8.cpp.o -o sanitize 
